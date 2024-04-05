@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1712320667266,
+      "tag": "0000_curious_vanisher",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1712324012877,
+      "tag": "0001_loose_wonder_man",
+      "breakpoints": true
+    }
+  ]
+}
